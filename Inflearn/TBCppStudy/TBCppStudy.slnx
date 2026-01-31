@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="chap1_!/chap1_!.vcxproj" />
+  <Project Path="TBCppStudy.vcxproj" />
+</Solution>
