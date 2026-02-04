@@ -3,8 +3,8 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="../chap1_3/chap1_3.vcxproj" Id="5e97403f-eb04-4191-8f4d-935bb041ef79" />
-  <Project Path="../chap1_3_hw/chap1_3_hw.vcxproj" Id="effdc0f4-2920-4a34-9008-85dc53d5b1b0" />
   <Project Path="chap1_!/chap1_!.vcxproj" Id="02985d97-b530-4031-b27e-b65cc44c1091" />
+  <Project Path="chap1_3/chap1_3.vcxproj" Id="5e97403f-eb04-4191-8f4d-935bb041ef79" />
+  <Project Path="chap1_3_hw/chap1_3_hw.vcxproj" Id="effdc0f4-2920-4a34-9008-85dc53d5b1b0" />
   <Project Path="TBCppStudy.vcxproj" Id="fc8cfef2-d194-4ae9-bd90-f5e36cc1895b" />
 </Solution>
