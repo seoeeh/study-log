@@ -16,7 +16,7 @@ int main()
 
 
 	//warning, 초기화 안 함
-	int z;
+	int z=0;
 	std::cout << z << std::endl;
 
 	return 0;
